@@ -497,7 +497,7 @@ int main()
     /*int n;
     int a,b,c;
     scanf("%d\n0.%d 0.%d 0.%d",&n,&a,&b,&c);*/
-    for (int n=7;n<=8;n++)
+    for (int n=1;n<=8;n++)
     {
         go(n,1,1,98);
         go(n,1,98,1);
